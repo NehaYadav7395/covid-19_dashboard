@@ -30,8 +30,8 @@ This dashboard solves that by bringing everything into a **single, interactive, 
 
 ---
 ## 📸 Screenshot
-
-![COVID-19 Global Dashboard](covid-19.png)
+## 📸 Screenshot
+![COVID-19 Global Dashboard](covid-19.jpg)
 
 
 
