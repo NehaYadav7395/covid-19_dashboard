@@ -29,6 +29,13 @@ This dashboard solves that by bringing everything into a **single, interactive, 
 | **Custom Time Range**              | "Last 7 Days", "Last 30 Days", etc. calculated dynamically using DAX.       |
 
 ---
+## 📸 Screenshot
+
+![COVID-19 Global Dashboard](covid-19.png)
+
+
+
+
 
 ## 🧠 Tools & Technologies
 
